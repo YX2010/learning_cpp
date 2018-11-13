@@ -3,7 +3,7 @@
 
 # Usage
   在该目录下使用
-  '''shell
+  '''Shell
   make
   ./run
   '''
