@@ -4,8 +4,12 @@
 # Usage
   在该目录下使用
   ```Shell
+  # 编译
   make
   ./run
+  
+  # 删除
+  make clean
   ```
       
   
