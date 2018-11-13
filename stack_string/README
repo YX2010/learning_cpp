@@ -1,7 +1,7 @@
-#Usage
+# Usage
 实现stack的功能（针对string）：实现push,pop,peek等操作
 
-#Usage
+# Usage
   在该目录下使用
       make
       ./run
