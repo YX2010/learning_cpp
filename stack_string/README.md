@@ -3,8 +3,10 @@
 
 # Usage
   在该目录下使用
-      make
-      ./run
+  '''shell
+  make
+  ./run
+  '''
       
   接着按提示操作。
 
