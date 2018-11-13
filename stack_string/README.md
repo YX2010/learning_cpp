@@ -3,16 +3,11 @@
 
 # Usage
   在该目录下使用
-  '''Shell
+  ```Shell
   make
   ./run
-  '''
-      
-  接着按提示操作。
-  1. Clone the Faster R-CNN repository
-  ```Shell
-  # Make sure to clone with --recursive
-  git clone --recursive https://github.com/rbgirshick/py-faster-rcnn.git
   ```
+      
+  
   
 
