@@ -8,3 +8,14 @@
    *logged number*, 
    *level* (include *Beginner*, *Intermediate*, *Advanced*, and *Guru*). Other member may in include percent of correct login. 
    Please complete the **class** of *UserProfile*,
+   
+### Run demo
+```Shll
+make
+./run
+```
+
+### Delete compile
+```Shell
+make clean
+```
