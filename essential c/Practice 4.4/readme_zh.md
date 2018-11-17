@@ -20,11 +20,11 @@
 
 ### Update
 *
-```shell
+```cpp
 _itoa( id++, buffer, 10);
 ```
 改变成<br>
-```shell
+```cpp
 to_string( id++);
 ```
 
