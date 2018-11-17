@@ -17,3 +17,10 @@
  * *不等测试*<br>
  * constructor必须能够处理默认用户的等级在、默认的登录名称（"guset")<br>
  * 对同样名为guest的多个用户，保存每个guest有他自己的独有登录会话
+
+### Update
+* _itoa( id++, buffer, 10);<br>
+改变成<br>
+to_string( id++);<br>
+
+* _inline UserProfile::UserProflie(...)
